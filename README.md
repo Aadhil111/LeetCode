@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aadhil111/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aadhil111/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Aadhil111/LeetCode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Aadhil111/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0861-flipping-an-image](https://github.com/Aadhil111/LeetCode/tree/master/0861-flipping-an-image) |
 ## String
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Aadhil111/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Aadhil111/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aadhil111/LeetCode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Aadhil111/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1899-count-items-matching-a-rule](https://github.com/Aadhil111/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Aadhil111/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3396-valid-word](https://github.com/Aadhil111/LeetCode/tree/master/3396-valid-word) |
