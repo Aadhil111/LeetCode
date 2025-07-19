@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Aadhil111/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aadhil111/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Aadhil111/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aadhil111/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Aadhil111/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aadhil111/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Aadhil111/LeetCode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Aadhil111/LeetCode/tree/master/0861-flipping-an-image) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aadhil111/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
