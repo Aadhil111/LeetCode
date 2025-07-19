@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Aadhil111/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Aadhil111/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aadhil111/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2058-concatenation-of-array](https://github.com/Aadhil111/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -102,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aadhil111/LeetCode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Aadhil111/LeetCode/tree/master/0898-transpose-matrix) |
+| [2058-concatenation-of-array](https://github.com/Aadhil111/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
