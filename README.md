@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aadhil111/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0898-transpose-matrix](https://github.com/Aadhil111/LeetCode/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/Aadhil111/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadhil111/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Aadhil111/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Aadhil111/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Aadhil111/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Aadhil111/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aadhil111/LeetCode/tree/master/0242-valid-anagram) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadhil111/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Aadhil111/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Aadhil111/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Aadhil111/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aadhil111/LeetCode/tree/master/0242-valid-anagram) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadhil111/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
 | ------- |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Aadhil111/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadhil111/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
