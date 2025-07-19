@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Aadhil111/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Aadhil111/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aadhil111/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Aadhil111/LeetCode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aadhil111/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/Aadhil111/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Aadhil111/LeetCode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
