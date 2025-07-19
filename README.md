@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aadhil111/LeetCode/tree/master/0242-valid-anagram) |
 | [1899-count-items-matching-a-rule](https://github.com/Aadhil111/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Aadhil111/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3396-valid-word](https://github.com/Aadhil111/LeetCode/tree/master/3396-valid-word) |
 ## String Matching
 |  |
 | ------- |
