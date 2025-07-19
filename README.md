@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aadhil111/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Aadhil111/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aadhil111/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Aadhil111/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Aadhil111/LeetCode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Aadhil111/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Aadhil111/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Aadhil111/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Aadhil111/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Aadhil111/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Aadhil111/LeetCode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Aadhil111/LeetCode/tree/master/0861-flipping-an-image) |
 ## Hash Table
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Aadhil111/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aadhil111/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Aadhil111/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Aadhil111/LeetCode/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
