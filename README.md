@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aadhil111/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0898-transpose-matrix](https://github.com/Aadhil111/LeetCode/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Aadhil111/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1580-shuffle-the-array](https://github.com/Aadhil111/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Aadhil111/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Aadhil111/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Aadhil111/LeetCode/tree/master/1791-richest-customer-wealth) |
