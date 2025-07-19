@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aadhil111/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aadhil111/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Aadhil111/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Aadhil111/LeetCode/tree/master/0242-valid-anagram) |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Aadhil111/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aadhil111/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
