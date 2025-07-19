@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Aadhil111/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Aadhil111/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Aadhil111/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/Aadhil111/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Aadhil111/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Aadhil111/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aadhil111/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aadhil111/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Aadhil111/LeetCode/tree/master/0231-power-of-two) |
 | [1031-add-to-array-form-of-integer](https://github.com/Aadhil111/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1635-number-of-good-pairs](https://github.com/Aadhil111/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Aadhil111/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aadhil111/LeetCode/tree/master/0242-valid-anagram) |
+| [1635-number-of-good-pairs](https://github.com/Aadhil111/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Aadhil111/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aadhil111/LeetCode/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/Aadhil111/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
