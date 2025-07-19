@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aadhil111/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Aadhil111/LeetCode/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/Aadhil111/LeetCode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Aadhil111/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aadhil111/LeetCode/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aadhil111/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Aadhil111/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Aadhil111/LeetCode/tree/master/0137-single-number-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aadhil111/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aadhil111/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aadhil111/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
