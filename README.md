@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aadhil111/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/Aadhil111/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aadhil111/LeetCode/tree/master/2058-concatenation-of-array) |
+| [3221-find-the-peaks](https://github.com/Aadhil111/LeetCode/tree/master/3221-find-the-peaks) |
 ## Math
 |  |
 | ------- |
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aadhil111/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/Aadhil111/LeetCode/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
