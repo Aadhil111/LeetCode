@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aadhil111/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aadhil111/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aadhil111/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Aadhil111/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aadhil111/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aadhil111/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Aadhil111/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aadhil111/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Aadhil111/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Aadhil111/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Aadhil111/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Aadhil111/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aadhil111/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Aadhil111/LeetCode/tree/master/1013-fibonacci-number) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aadhil111/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aadhil111/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aadhil111/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/Aadhil111/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aadhil111/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Aadhil111/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Aadhil111/LeetCode/tree/master/0792-binary-search) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Aadhil111/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Aadhil111/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Aadhil111/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aadhil111/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Aadhil111/LeetCode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Aadhil111/LeetCode/tree/master/0861-flipping-an-image) |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aadhil111/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Aadhil111/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aadhil111/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aadhil111/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadhil111/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Aadhil111/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Aadhil111/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -141,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aadhil111/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aadhil111/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Aadhil111/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aadhil111/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadhil111/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
