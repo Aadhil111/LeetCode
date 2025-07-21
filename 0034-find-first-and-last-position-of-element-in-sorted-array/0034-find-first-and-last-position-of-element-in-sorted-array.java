@@ -1,20 +1,25 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        ArrayList<Integer> arrList = new ArrayList<>();
-        int[] resArr = new int[2];
-        for(int i =0 ; i<nums.length ; i++){
-            if(nums[i]==target){
-                arrList.add(i);
+        int[] result={-1,-1};
+        result[0] = search(nums,target,true);
+        result[1] = search(nums,target,false);
+        return result;
+    }
+
+    public int search(int[] nums , int target , Boolean firstIndex){
+        int start=0;
+        int end=nums.length-1;
+        int ans=-1;
+        while(start<=end){
+            int mid=start+(end-start)/2;
+            if(target>nums[mid]) start = mid+1;
+            else if(target<nums[mid]) end=mid-1;
+            else{
+                ans=mid;
+                if(firstIndex) end =mid-1;
+                else start=mid+1;
             }
         }
-        if(arrList.size() != 0){
-            resArr[0]=arrList.getFirst();
-            resArr[1]=arrList.getLast();
-            return resArr;
-        }
-        resArr[0] = -1;
-        resArr[1]=-1;
-        return resArr;
-        
+        return ans;
     }
 }
