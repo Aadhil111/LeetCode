@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Aadhil111/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Aadhil111/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/Aadhil111/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [1961-maximum-ice-cream-bars](https://github.com/Aadhil111/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aadhil111/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/Aadhil111/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aadhil111/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aadhil111/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aadhil111/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadhil111/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1961-maximum-ice-cream-bars](https://github.com/Aadhil111/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 ## Counting
 |  |
 | ------- |
@@ -198,10 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadhil111/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1961-maximum-ice-cream-bars](https://github.com/Aadhil111/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 ## Greedy
 |  |
 | ------- |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Aadhil111/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1961-maximum-ice-cream-bars](https://github.com/Aadhil111/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 ## Stack
 |  |
 | ------- |
