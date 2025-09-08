@@ -226,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/Aadhil111/LeetCode/tree/master/3221-find-the-peaks) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Aadhil111/LeetCode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
