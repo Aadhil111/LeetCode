@@ -18,8 +18,8 @@ class Solution {
                 }
                 else sum += num;
             }
-            if(pieces <= k ) end = mid;
-            else start = mid+1;
+            if(pieces > k ) start = mid+1;
+            else end = mid;
         }
         return end;
 
