@@ -1,6 +1,7 @@
 class Solution {
     public int search(int[] nums, int target) {
         int pivot = pivot(nums);
+        System.out.println(pivot);
         if(pivot==-1) return binarySearch(nums , target ,0,nums.length-1);
 
         else if(nums[pivot]==target) return pivot;
