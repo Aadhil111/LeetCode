@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aadhil111/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aadhil111/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aadhil111/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/Aadhil111/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Aadhil111/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Aadhil111/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Aadhil111/LeetCode/tree/master/0861-flipping-an-image) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Aadhil111/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Aadhil111/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aadhil111/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/Aadhil111/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Aadhil111/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Aadhil111/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Aadhil111/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aadhil111/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadhil111/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/Aadhil111/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/Aadhil111/LeetCode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Aadhil111/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Aadhil111/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Aadhil111/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Counting Sort
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Aadhil111/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Aadhil111/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1961-maximum-ice-cream-bars](https://github.com/Aadhil111/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 ## Stack
