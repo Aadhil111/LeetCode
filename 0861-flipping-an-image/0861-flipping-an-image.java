@@ -5,13 +5,12 @@ class Solution {
             reverse(image[i]);
 
             for(int j=0 ; j<image[i].length;j++){
-                if(image[i][j]==0) image[i][j]=1;
-                else image[i][j]=0;
+                image[i][j] ^= 1;
             }
         }   
         return image;    
     }
-    public static int[] reverse(int[] arr){
+    public static int[]   reverse(int[] arr){
         int i=0;
         int j=arr.length-1;
         while(i<j){
