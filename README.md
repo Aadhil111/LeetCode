@@ -263,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/Aadhil111/LeetCode/tree/master/1185-find-in-mountain-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Aadhil111/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
